@@ -4,8 +4,8 @@
 ### If u want to contact me please dm me on [instagram](https://www.instagram.com/glinek_tronic/)
 ### Make sure to check my other [socials](https://beacons.ai/glinek)
 ### Lenguages that I know && use:
+* ### Python
 * ### C++
 * ### C
-* ### Python
 * ### HTML
 
