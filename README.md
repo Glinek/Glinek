@@ -5,7 +5,6 @@
 ### Make sure to check my other [socials](https://beacons.ai/glinek)
 ### Lenguages that I know && use:
 * ### Python
-* ### C++
 * ### C
-* ### HTML
+
 
