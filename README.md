@@ -4,7 +4,7 @@
 <h4 align="center">I'm:</h4>
 <h4 align="center">🤖 Robotic engineering student</h4>
 <h4 align="center">💻 Cyberdeck builder</h4>
-<h4 align="center">👨‍💻 Self-thought dev</h4>
+<h4 align="center">👨‍💻 Self-taught dev</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Glinek" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glinek" /></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">Stats made by anuraghazra<a></p>
