@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A robotics engineering student</h3>
+![banner](github-header-banner.png)
 
 <p align="center">
 <a href="https://discord.gg/glinek_tronic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="glinek_tronic" height="30" width="40" /></a>
